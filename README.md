@@ -1,9 +1,6 @@
 ##Eaee! Eu sou o Nathan Lino, mas pode me chamar de Nanuuxz.
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-
 <div>
   <a href="https://github.com/Nanuuxz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nanuuxz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
