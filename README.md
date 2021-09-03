@@ -13,7 +13,7 @@
   <img align="center" alt="Nanu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nanu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nanu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" height="135em" alt="Nanu-gif" src="https://media.discordapp.net/attachments/811649788012920883/883357608830967808/20210903_112701.gif">
+  <img align="right" height="132em" alt="Nanu-gif" src="https://media.discordapp.net/attachments/811649788012920883/883357608830967808/20210903_112701.gif">
 </div>
 
 ##
