@@ -1,4 +1,4 @@
-## Eaee! Eu sou o Nathan, mas pode me chamar de Nanuuxz.
+## Eaee, eu sou o Nathan! Aqui ta meio parado, mas logo tratei uns projetinhos maneiros para atualizar.
 
 
 <div>
