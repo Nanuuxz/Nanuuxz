@@ -1,4 +1,4 @@
-## Eaee, eu sou o Nathan! Aqui ta meio parado, mas logo tratei uns projetinhos maneiros para atualizar.
+## Eaee, eu sou o Nathan! Aqui ta meio parado, mas logo trarei uns projetinhos maneiros para atualizar.
 
 
 <div>
